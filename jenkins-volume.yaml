@@ -11,4 +11,4 @@ spec:
     storage: 20Gi
   persistentVolumeReclaimPolicy: Retain
   hostPath:
-    path: /Users/sbyrapaneni/k8s_pv/Jenkins
+    path: /Users/Shivaji/PV/Jenkins
